@@ -1,0 +1,60 @@
+course = 'mooc-java-programming-ii'
+[exercises."part08-Part08_01.Cubes"]
+id = 87694
+checksum = '43758bf10ed212527b17b958a74534c5'
+
+[exercises."part08-Part08_02.AverageOfPositiveNumbers"]
+id = 87695
+checksum = '9e2ae6b3c65b63f4af0ebe4c60544263'
+
+[exercises."part08-Part08_03.LiquidContainers"]
+id = 87696
+checksum = 'a57aa15e265e63a26f92442ca171591a'
+
+[exercises."part08-Part08_04.LiquidContainers2"]
+id = 87697
+checksum = '4e2451f336269dabd492e2d2e3ebcd95'
+
+[exercises."part08-Part08_05.TodoList"]
+id = 87698
+checksum = '04722994ee2124b19bc4381c74b3b391'
+
+[exercises."part08-Part08_06.Nicknames"]
+id = 87699
+checksum = '1da57b943422048473e20eee1f0ca80d'
+
+[exercises."part08-Part08_07.Abbreviations"]
+id = 87700
+checksum = '85e992b573e26c8f7a9f702e946299da'
+
+[exercises."part08-Part08_08.PrintMeMyHashmap"]
+id = 87701
+checksum = '8f3fe76736082ba14ea9020c09bee243'
+
+[exercises."part08-Part08_09.PrintMeAnotherHashmap"]
+id = 87702
+checksum = '65bdf1f4f19aa3ccf62032b79f9f6632'
+
+[exercises."part08-Part08_10.IOweYou"]
+id = 87703
+checksum = '31c32815ce2e698d992dc54a8ad2c134'
+
+[exercises."part08-Part08_11.SameDate"]
+id = 87704
+checksum = 'a1e43d456c4faa798a4c85d1fa14a2e8'
+
+[exercises."part08-Part08_12.HashedDate"]
+id = 87705
+checksum = 'd2f8918218e9ca49f1cefca3154ecef5'
+
+[exercises."part08-Part08_13.VehicleRegistry"]
+id = 87706
+checksum = '0c3417697743a379ea4def4e895841c8'
+
+[exercises."part08-Part08_14.DictionaryOfManyTranslations"]
+id = 87707
+checksum = '1c20b8c8f052fa3b6a6b67f3126716e9'
+
+[exercises."part08-Part08_15.StorageFacility"]
+id = 87708
+checksum = 'd2750f7633eb16c5cab867530685d3cf'
