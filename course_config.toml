@@ -174,3 +174,55 @@ checksum = 'cef95ad12b7acbf366ac1b6c0835a531'
 [exercises."part10-Part10_17.SortThemCards"]
 id = 87737
 checksum = 'e547c245001554fe16126a4159c38d54'
+
+[exercises."part11-Part11_01.Customer"]
+id = 87738
+checksum = 'dbc2b1df63974a0fd3aa73e6d45e9cae'
+
+[exercises."part11-Part11_02.ABookAndAPlane"]
+id = 87739
+checksum = 'f1974c54177072b260f7c706858499e2'
+
+[exercises."part11-Part11_03.ShowAndTicket"]
+id = 87740
+checksum = '115229fd74c1d4bc7d3f6416ac1dde3e'
+
+[exercises."part11-Part11_04.StudentAndUniversity"]
+id = 87741
+checksum = '710aa871a87f08c68f8663462576bf52'
+
+[exercises."part11-Part11_05.ThePlayerAndTheBot"]
+id = 87742
+checksum = '073de254b9c186086972109b5b57d451'
+
+[exercises."part11-Part11_06.SaveablePerson"]
+id = 87743
+checksum = '3a264d6e3218c18ab70a6617c0c2ad5c'
+
+[exercises."part11-Part11_07.BiggerClassDiagram"]
+id = 87744
+checksum = '1a40e3a7a204448c5c798a789dc5448d'
+
+[exercises."part11-Part11_08.FirstPackages"]
+id = 87745
+checksum = 'daa0f367db498f673a8d8988829a349c'
+
+[exercises."part11-Part11_09.TheThreePackages"]
+id = 87746
+checksum = '9cb6fe6d5ffeffe91c6789507b83a32d'
+
+[exercises."part11-Part11_10.FlightControl"]
+id = 87747
+checksum = '504a03a72aeb44cc6fe22333076384f8'
+
+[exercises."part11-Part11_11.ValidatingParameters"]
+id = 87748
+checksum = 'dcbf70c2273cff25bde54552293cc871'
+
+[exercises."part11-Part11_12.SensorsAndTemperature"]
+id = 87749
+checksum = '65e92d5b770a10153ad2e2a0c191d6e2'
+
+[exercises."part11-Part11_13.SaveableDictionary"]
+id = 87750
+checksum = '319a59d9a58ebf7aeef69ff9d5670744'
