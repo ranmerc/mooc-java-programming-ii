@@ -226,3 +226,43 @@ checksum = '65e92d5b770a10153ad2e2a0c191d6e2'
 [exercises."part11-Part11_13.SaveableDictionary"]
 id = 87750
 checksum = '319a59d9a58ebf7aeef69ff9d5670744'
+
+[exercises."part12-Part12_01.Hideout"]
+id = 87751
+checksum = '5ef3a1cc181b9e6583e52307620137c9'
+
+[exercises."part12-Part12_02.Pipe"]
+id = 87752
+checksum = '07ac969488453030a929b0946dfd5cd1'
+
+[exercises."part12-Part12_03.SumTheseForMe"]
+id = 87753
+checksum = '60c62db80d5fa5a4272d7a63639f43ce'
+
+[exercises."part12-Part12_04.List"]
+id = 87754
+checksum = '72a549362f3a87f7867942adfb5fc3ba'
+
+[exercises."part12-Part12_05.HashMap"]
+id = 87755
+checksum = '1b54e1b2d1ff0d88ee685cc167c49f42'
+
+[exercises."part12-Part12_06.Numbers"]
+id = 87756
+checksum = '359274f6a66c45d32c62379cd353f4d0'
+
+[exercises."part12-Part12_07.Die"]
+id = 87757
+checksum = 'a70b4db0a7f7b63547d7b313bc30154f'
+
+[exercises."part12-Part12_08.Lottery"]
+id = 87758
+checksum = '13c2bb7d030e2fe8f35fc2fdd53ec955'
+
+[exercises."part12-Part12_09.ArrayAsAString"]
+id = 87759
+checksum = 'efaf3f0a93d94e5bbfdfdb6fa5129e94'
+
+[exercises."part12-Part12_10.MagicSquare"]
+id = 87760
+checksum = '2bc72e1d7d1433681ed87ea79e83e400'
